@@ -55,10 +55,14 @@ Welcome to this repository showcasing **three practical ML & data science projec
 ### Prerequisites
 
 For Python projects:
+```bash
 pip install pandas scikit-learn matplotlib seaborn tensorflow keras
+```
 
 For the R project:
+```bash
 install.packages(c("ggplot2", "dplyr", "caret"))
+```
 
 ### Run Instructions
 Python Notebooks: Open .ipynb files with Jupyter Notebook or JupyterLab.
