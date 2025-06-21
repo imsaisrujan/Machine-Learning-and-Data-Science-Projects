@@ -65,6 +65,14 @@ Python Notebooks: Open .ipynb files with Jupyter Notebook or JupyterLab.
 
 R Script: Run the .R file in RStudio or using an R console.
 
-## 🙋‍♂️ Author
-### Sai Srujan
-Feel free to ⭐ star this repo or open issues if you'd like to contribute or ask questions!
+---
+
+## 👨‍💻 Author
+
+**Sai Srujan**  
+
+---
+
+## ⭐️ Show Your Support
+
+If you find this project useful, please give it a ⭐ on GitHub — it helps others discover it!
