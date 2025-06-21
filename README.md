@@ -60,8 +60,9 @@ pip install pandas scikit-learn matplotlib seaborn tensorflow keras
 For the R project:
 install.packages(c("ggplot2", "dplyr", "caret"))
 
-Run Instructions
+### Run Instructions
 Python Notebooks: Open .ipynb files with Jupyter Notebook or JupyterLab.
+
 R Script: Run the .R file in RStudio or using an R console.
 
 ## 🙋‍♂️ Author
