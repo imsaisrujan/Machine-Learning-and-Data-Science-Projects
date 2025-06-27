@@ -30,7 +30,7 @@ Welcome to this repository showcasing **three practical ML & data science projec
 - Language: Python (Jupyter Notebook)
 - Libraries: `TensorFlow`, `Keras`, `NumPy`, `Matplotlib`
 - Task: Classify images using a Convolutional Neural Network (CNN)
-- Dataset: CIFAR-10 or MNIST (assumed; customize if needed)
+- Dataset: CIFAR-10 
 - Features: 
   - Image preprocessing
   - Model building & training
@@ -41,7 +41,7 @@ Welcome to this repository showcasing **three practical ML & data science projec
 ### 3. 🎓 Predicting Student Performance (Python)
 - Language: Python (Jupyter Notebook)
 - Libraries: `pandas`, `scikit-learn`, `graphviz`, `matplotlib`
-- Dataset: `student-por.csv` (Student alcohol consumption dataset from UCI)
+- Dataset: `student-por.csv` (Dataset from UCI)
 - Task: Use decision trees to predict final grades (`G3`)
 - Includes:
   - Data cleaning & preprocessing
